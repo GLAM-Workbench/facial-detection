@@ -1,5 +1,4 @@
 altair==2.2.2
-appmode==0.4.0
 opencv-python==3.4.3.18
 pandas==0.23.4
 Pillow==5.3.0
